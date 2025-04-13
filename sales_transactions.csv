@@ -1,0 +1,5 @@
+TransactionID,CustomerName,ProductName,Category,Region,SalesAmount,Date
+T001,Alice,Laptop,Electronics,West,1200,2024-01-10
+T002,Bob,Headphones,Electronics,North,200,2024-01-11
+T003,Alice,Chair,Furniture,West,150,2024-01-12
+T004,Charlie,Desk,Furniture,South,300,2024-01-13
